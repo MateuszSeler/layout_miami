@@ -1,8 +1,0 @@
-@use '../utils/vars' as *;
-
-.top-bar {
-  display: flex;
-  justify-content: space-between;
-  max-width: $max-content-width;
-  align-items: center;
-}
